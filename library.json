@@ -1,0 +1,10 @@
+{
+  "name": "LinkedIoT",
+  "keywords": "ld, iot",
+  "description": "Linked Data IoT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bergos/LinkedIoT.git"
+  },
+  "frameworks": "arduino"
+}
